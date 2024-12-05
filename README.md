@@ -22,7 +22,7 @@ This repository contains the research, analysis, and findings from the study **"
   Wealthier regions in the United States are significantly better equipped with EV charging stations, while economically disadvantaged areas face barriers to access. The study emphasizes the need for equitable infrastructure to foster inclusive adoption of sustainable transportation.
 
 - **📈 Findings**:  
-  - 📉 Positive correlation between the number of EV charging stations and household income.
+  - 📉 Positive correlation between the number of EV charging stations and household income per state.
   - ⏲️ Temporal trends show an increasing disparity in station deployment over time.
   - 👥 Population size is a stronger predictor of charging station availability than income at the state level.
 
@@ -37,7 +37,7 @@ This repository contains the research, analysis, and findings from the study **"
    Start by reviewing the paper for detailed insights and methodologies.
 
 2. **🔍 Explore the Notebook**:  
-   Open the Jupyter notebook to see the step-by-step data analysis and visualizations.  
+   Open the Colab notebook to see the step-by-step data analysis and visualizations.  
    - Prerequisites: Python, Jupyter, and the following libraries:
      ```
      pandas, numpy, matplotlib, seaborn, geopandas
@@ -53,13 +53,6 @@ This repository contains the research, analysis, and findings from the study **"
 - 🤖 Develop predictive models to identify underserved regions.
 - 🛡️ Propose strategies to normalize infrastructure deployment based on population and geographic area.
 
-## 📌 Citation
-
-If you use this work, please cite:
-
-```
-Antebi, S., & Fire, M. (2024). Charging Ahead: Socioeconomic Inequities in Electric Vehicle Charging Infrastructure Across the United States.
-```
 
 ## 📝 License
 
