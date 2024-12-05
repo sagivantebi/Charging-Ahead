@@ -52,8 +52,3 @@ This repository contains the research, analysis, and findings from the study **"
 - 🌍 Expand the analysis to include racial demographics and rural vs. urban divides.
 - 🤖 Develop predictive models to identify underserved regions.
 - 🛡️ Propose strategies to normalize infrastructure deployment based on population and geographic area.
-
-
-## 📝 License
-
-This project is licensed under the MIT License. See [`LICENSE`](./LICENSE) for details.
